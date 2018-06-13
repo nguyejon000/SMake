@@ -1,1 +1,1 @@
-# SMake
+# Snake
