@@ -9,7 +9,7 @@
 }
  
 .snake-board .col {
-    background-color: yellow;
+    background-color: green;
 }
 function Snake(board, speed, head) {
     this.head = head;
