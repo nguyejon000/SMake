@@ -7,7 +7,7 @@ var drawModule = (function () {
         ctx.strokeRect(x*snakeSize, y*snakeSize, snakeSize, snakeSize);
   }
 
-  var pizza = function(x, y) {
+  var apple = function(x, y) {
         ctx.fillStyle = 'yellow';
         ctx.fillRect(x*snakeSize, y*snakeSize, snakeSize, snakeSize);
         ctx.fillStyle = 'red';
